@@ -1,2 +1,2 @@
 # ameen-careers-website
-Career website for Ameen
+A career website for Ameen
